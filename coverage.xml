@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.46666667" branch-rate="0" version="" timestamp="1565858110913" lines-covered="7" lines-valid="15" branches-covered="0" branches-valid="0" complexity="0">
+	<sources>
+		<source>D:\Go\src</source>
+		<source>C:\Users\xl\go\src</source>
+	</sources>
+	<packages>
+		<package name="C:\Users\xl\My Documents\gotest" line-rate="0.46666667" branch-rate="0" complexity="0">
+			<classes>
+				<class name="-" filename="C:\Users\xl\My Documents\gotest\basicfunc.go" line-rate="0.46666667" branch-rate="0" complexity="0">
+					<methods>
+						<method name="GetGrade" signature="" line-rate="0.33333334" branch-rate="0" complexity="0">
+							<lines>
+								<line number="3" hits="1"></line>
+								<line number="4" hits="1"></line>
+								<line number="5" hits="1"></line>
+								<line number="6" hits="1"></line>
+								<line number="7" hits="0"></line>
+								<line number="8" hits="0"></line>
+								<line number="9" hits="0"></line>
+								<line number="10" hits="0"></line>
+								<line number="11" hits="0"></line>
+								<line number="12" hits="0"></line>
+								<line number="13" hits="0"></line>
+								<line number="14" hits="0"></line>
+							</lines>
+						</method>
+						<method name="Add" signature="" line-rate="1" branch-rate="0" complexity="0">
+							<lines>
+								<line number="18" hits="1"></line>
+								<line number="19" hits="1"></line>
+								<line number="20" hits="1"></line>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="3" hits="1"></line>
+						<line number="4" hits="1"></line>
+						<line number="5" hits="1"></line>
+						<line number="6" hits="1"></line>
+						<line number="7" hits="0"></line>
+						<line number="8" hits="0"></line>
+						<line number="9" hits="0"></line>
+						<line number="10" hits="0"></line>
+						<line number="11" hits="0"></line>
+						<line number="12" hits="0"></line>
+						<line number="13" hits="0"></line>
+						<line number="14" hits="0"></line>
+						<line number="18" hits="1"></line>
+						<line number="19" hits="1"></line>
+						<line number="20" hits="1"></line>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
