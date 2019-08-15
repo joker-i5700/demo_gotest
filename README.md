@@ -9,16 +9,16 @@ ok      _/C_/Users/xl/My_Documents/gotest       0.361s
 ## 2)go test -coverprofile=coverage.out  
 生成覆盖率报告原文件，文件名：coverage.out  
 
-# 3)go tool cover -html=coverage.out
+## 3)go tool cover -html=coverage.out
 在临时文件夹生成html格式报告，并直接使用浏览器打开  
 
-# 4)go test -covermode=count -coverprofile=count.out fmt
+## 4)go test -covermode=count -coverprofile=count.out fmt
 通过参数covermode的设定覆盖率统计模式  
 set     缺省模式, 只记录语句是否被执行过  
 count   记录语句被执行的次数  
 atomic  记录语句被执行的次数，并保证在并发执行时的正确性  
 
-# 5)go tool cover -func=count.out  
+## 5)go tool cover -func=count.out  
 直接输出函数覆盖率情况  
 $ go tool cover -func=count.out  
 fmt/format.go:54:       clearflags      100.0%  
